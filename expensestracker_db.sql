@@ -30,7 +30,7 @@ category_id integer not null,
 user_id integer not null,
 amount numeric(10,2) not null,
 note varchar(50) not null,
-transaction_date gigint not null
+transaction_date bigint not null
 );
 
 alter table et_transactions add constraint trans_cat_fk
@@ -40,8 +40,9 @@ alter table et_transactions add constraint trans_users_fk
 
 create sequence et_users_seq increment 1 start 1;
 create sequence et_categories_seq increment 1 start 1;
+create sequence et_transactions_seq increment 1 start 1000;
 
-17:52--->>>>>>
+18:27--->>>>
 
 
 
