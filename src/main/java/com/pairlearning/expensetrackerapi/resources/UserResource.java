@@ -3,6 +3,8 @@ package com.pairlearning.expensetrackerapi.resources;
 
 import org.springframework.web.bind.annotation.*;
 
+import java.util.Map;
+
 @RestController
 @RequestMapping("/api/users")
 public class UserResource {
