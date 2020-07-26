@@ -42,7 +42,7 @@ create sequence et_users_seq increment 1 start 1;
 create sequence et_categories_seq increment 1 start 1;
 create sequence et_transactions_seq increment 1 start 1000;
 
-18:27--->>>>
+
 
 
 
