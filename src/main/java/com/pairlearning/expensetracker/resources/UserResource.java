@@ -1,4 +1,4 @@
-package com.pairlearning.expensetrackerapi.resources;
+package com.pairlearning.expensetracker.resources;
 
 
 import org.springframework.web.bind.annotation.*;

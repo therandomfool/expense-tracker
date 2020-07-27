@@ -1,4 +1,4 @@
-package com.pairlearning.expensetrackerapi.exceptions;
+package com.pairlearning.expensetracker.exceptions;
 
 
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.pairlearning.expensetrackerapi;
+package com.pairlearning.expensetracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
